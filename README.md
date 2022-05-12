@@ -1,0 +1,2 @@
+# Genizect
+Random Password Generator
